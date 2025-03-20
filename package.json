@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.2",
     "maplibre-gl": "^5.2.0",
     "node-geocoder": "^4.4.1",
+    "nodemailer": "^6.10.0",
     "pg": "^8.13.3",
     "validator": "^13.12.0"
   },
